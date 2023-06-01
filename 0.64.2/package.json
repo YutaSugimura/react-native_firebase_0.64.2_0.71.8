@@ -10,8 +10,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@react-native-firebase/analytics": "^17.5.0",
-    "@react-native-firebase/app": "^17.5.0",
+    "@react-native-firebase/analytics": "^14.11.1",
+    "@react-native-firebase/app": "^14.11.1",
     "react": "17.0.1",
     "react-native": "0.64.2"
   },
